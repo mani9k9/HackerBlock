@@ -1,2 +1,2 @@
 # HackerBlock
-Alogorith
+Alogorithm
